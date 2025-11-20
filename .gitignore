@@ -1,0 +1,8 @@
+﻿# No subir todo SFML, solo lo necesario
+SFML-2.6.1/doc/
+SFML-2.6.1/cmake/
+SFML-2.6.1/lib/cmake/
+
+# Archivos temporales
+*.tmp
+*.log
